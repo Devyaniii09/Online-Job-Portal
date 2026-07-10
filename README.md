@@ -20,6 +20,13 @@ The Online Job Portal ensures efficient job management for employers and job see
 - Hibernate
 - Swagger (API's Documentation)
 
+  
+- ## Prerequisites
+- Java 8
+- Maven
+- MySQL
+- IntelliJ IDEA or Eclipse
+
 ## Software Used
 
 - IntelliJ IDEA backend development
