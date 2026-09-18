@@ -28,7 +28,7 @@ Authentication - 	JWT
 ## Software Used
 
 - IntelliJ IDEA : backend development
-- psql : terminal-based front-end to PostgreSQL 
+- psql :  terminal-based front-end to PostgreSQL 
 - Postman :  API's Testing
   
 ## User Modules
