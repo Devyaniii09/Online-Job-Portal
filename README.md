@@ -7,16 +7,14 @@ A lightweight, job portal backend built with Java and Spring Boot. It connects j
 The Online Job Portal streamlines hiring for both employers and job seekers. Employers post detailed job listings and manage incoming applications; employees search for jobs matching their qualifications, apply, and track outcomes. Administrators oversee the platform, managing categories, users, and overall activity — making the entire hiring workflow simple and transparent.
 
  ## Technologies Used
-
-Category    	  Technology
-- Language	 :    Java 8
--Framework   :	  Spring Boot
--Database	   :    PostgreSQL
--ORM	       :    Hibernate
--Build Tool	 :     Maven
--API Testing :    Postman
--API Docs	   :     Swagger
--Authentication :   JWT
+ - Language : JAVA 8
+ - Framework: SpringBoot
+ - Authentication: JWT
+ - Database: PostgreSql
+ - ORM : Hibernate
+ - Build Tool : Maven
+ - API Testing: Postman
+ - API Docs :   Swagger 
 
 
  ## Prerequisites
