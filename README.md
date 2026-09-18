@@ -1,26 +1,24 @@
 # Online Job Portal
 
 
-The Online Job Portal using Spring Boot simple and lightweight job portal application built using Java and Spring Boot. It provides a platform for job seekers to browse and apply for available job listings, while recruiters can post job openings and manage applications
-
-
+A lightweight, job portal backend built with Java and Spring Boot. It connects job seekers with employers — recruiters can post openings and manage applications, while employees can browse listings, apply, and track their application status.
 
 ## Overview
-
-The Online Job Portal ensures efficient job management for employers and job seekers. Employers can post job listings with detailed information, and employees can apply for jobs based on their qualifications and preferences. The system facilitates communication and updates between employers, employees, and administrators, streamlining the hiring process.
+The Online Job Portal streamlines hiring for both employers and job seekers. Employers post detailed job listings and manage incoming applications; employees search for jobs matching their qualifications, apply, and track outcomes. Administrators oversee the platform, managing categories, users, and overall activity — making the entire hiring workflow simple and transparent.
 
 ## Technologies Used
 
-- Java 8
-- Spring Boot 
-- JWT for user authentication
-- PostgreSQL 
-- Maven 
-- Postman 
-- Hibernate
-- Swagger (API's Documentation)
+Category    	  Technology
+Language	  -     Java 8
+Framework   -	    Spring Boot
+Database	  -     PostgreSQL
+ORM	        -     Hibernate
+Build Tool	-      Maven
+API Testing	-     Postman
+API Docs	  -     Swagger
+Authentication - 	JWT
 
-  
+
 - ## Prerequisites
 - Java 8
 - Maven
@@ -29,9 +27,9 @@ The Online Job Portal ensures efficient job management for employers and job see
 
 ## Software Used
 
-- IntelliJ IDEA backend development
-- psql terminal-based front-end to PostgreSQL 
-- Postman for API's Testing
+- IntelliJ IDEA : backend development
+- psql : terminal-based front-end to PostgreSQL 
+- Postman :  API's Testing
   
 ## User Modules
 
