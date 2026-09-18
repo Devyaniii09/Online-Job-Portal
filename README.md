@@ -52,7 +52,7 @@ The Online Job Portal streamlines hiring for both employers and job seekers. Emp
    - View applied jobs and status
    - Cancel applied jobs
 ## DB_SCHEMA
-  ![DB_SCHEMA](https://raw.githubusercontent.com/SaiD-MH/Online-Job-Portal/main/src/main/resources/database/DATABASE%20SCHEMA.png)
+![Database Schema](src/main/resources/database/schema.png)
 
 ## API's Endpoints
   ### REST APIs for Auth
